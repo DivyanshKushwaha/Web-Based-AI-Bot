@@ -1,10 +1,10 @@
-# 🤖 AI Chatbot using Flask & Gemini AI  
+# Web Based AI Chatbot using Flask & Gemini AI  
 
 An intelligent chatbot built with **Flask**, **Google Gemini AI**, and **Pinecone** for vector storage. It fetches real-time responses from a web-based knowledge base and provides human-like answers.  
 
 ---
 
-## 🚀 Features  
+## Features  
 
 - **Conversational AI** powered by **Google Gemini AI**  
 - **Web Scraping** to extract course-related information  
@@ -14,10 +14,9 @@ An intelligent chatbot built with **Flask**, **Google Gemini AI**, and **Pinecon
 
 ---
 
-## 🏗️ Tech Stack  
+## Tech Stack  
 
-- **Backend**: Flask, Google Gemini AI, Pinecone  
-- **Frontend**: HTML, CSS, JavaScript  
+- **Backend**: Flask, Google Gemini AI, Pinecone    
 - **Embeddings**: GoogleGenerativeAIEmbeddings  
 - **Web Scraping**: LangChain WebBaseLoader  
 
@@ -26,7 +25,7 @@ An intelligent chatbot built with **Flask**, **Google Gemini AI**, and **Pinecon
 
 ---
 
-## 🔧 Setup & Installation  
+## Setup & Installation  
 
 - **Clone the repository**  
 ```bash
